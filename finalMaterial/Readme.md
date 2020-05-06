@@ -23,11 +23,11 @@ Future features
 --------------
 
 - Add Makefile.
--Decent user interface: background, sounds and options
--Checking valid boards
--Input valid boards
-	+By keyboard
-	+By drag/drop
--Auto generated/randomized board
--Speed statistic
+- Decent user interface: background, sounds and options
+- Checking valid boards
+- Input valid boards
+	+ By keyboard
+	+ By drag/drop
+- Auto generated/randomized board
+- Speed statistic
 
